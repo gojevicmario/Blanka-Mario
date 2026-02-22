@@ -49,7 +49,7 @@ body {
 }
 
 .time-box label {
-  font-size: 32px;
+  font-size: 32px !important;
   color: #fff;
   font-weight: lighter;
 }
